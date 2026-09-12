@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Kyle 👋</h1>
 
-<!--
-**kylegutierrez51/kylegutierrez51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer, self-taught, currently moving into AI engineering.
 
-Here are some ideas to get you started:
+**Open to:** software engineering internships, remote or on-site in Miami.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+
+- Building **Deplo**, a visual CI pipeline runner
+- Moving into AI engineering next
+- Learning BoxLang ahead of contributing to Ortus Solutions' open source projects
+
+### Featured Projects
+**[Deplo](https://github.com/kylegutierrez51/Deplo)**: Compose a CI pipeline as a graph, where each node runs an arbitrary shell command. Independent branches execute commands in parallel, with per-node status and logs polled from the database and updated in the UI as they run.
+
+**[Job Application Tracker](https://github.com/kylegutierrez51/job-application-tracker)**: CRUD app for tracking applications, built with no frontend framework. Managing DOM state by hand meant tracing every update manually, which turned out to be the most useful possible argument for what React's abstractions are actually doing. Refactoring it to React + TypeScript next.
+
+### Tech Stack
+![Static Badge](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=%233178C6)
+![Static Badge](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=%233776AB)
+![Static Badge](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=%234479A1)
+![Static Badge](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Django-black?style=flat-square&logo=django&logoColor=%23092E20)
+![Static Badge](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=%233BABC3)
+![Static Badge](https://img.shields.io/badge/Claude-black?style=flat-square&logo=claude&logoColor=%23D97757)
+![Static Badge](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=%232496ED)
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kylegutierrezfiu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kylegutierrez51@gmail.com)
