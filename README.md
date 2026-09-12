@@ -21,6 +21,7 @@ Full-stack developer, primarily self-taught, currently moving into AI engineerin
 ![Static Badge](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=%233776AB)
 ![Static Badge](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![Static Badge](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=%235FA04E)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=%234479A1)
 ![Static Badge](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express&logoColor=white)
