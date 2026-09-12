@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Kyle 👋</h1>
 
-Full-stack developer, self-taught, currently moving into AI engineering.
+Full-stack developer, primarily self-taught, currently moving into AI engineering.
 
 **Open to:** software engineering internships, remote or on-site in Miami.
 
