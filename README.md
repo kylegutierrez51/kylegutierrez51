@@ -11,7 +11,7 @@ Full-stack developer, primarily self-taught, currently moving into AI engineerin
 - Learning BoxLang ahead of contributing to Ortus Solutions' open source projects
 
 ### Featured Projects
-**[Deplo](https://github.com/kylegutierrez51/Deplo)**: Compose a CI pipeline as a graph, where each node runs an arbitrary shell command. Independent branches execute commands in parallel, with per-node status and logs polled from the database and updated in the UI as they run.
+**[Deplo](https://github.com/kylegutierrez51/Deplo)**: A tool for visualizing CI pipelines as a graph. Users add nodes to the graph, each running an arbitrary shell command. Independent branches execute commands in parallel, with statuses and logs updating live as pipelines run.
 
 **[Job Application Tracker](https://github.com/kylegutierrez51/job-application-tracker)**: CRUD app for tracking applications, built with no frontend framework. Managing DOM state by hand meant tracing every update manually, which turned out to be the most useful possible argument for what React's abstractions are actually doing. Refactoring it to React + TypeScript next.
 
