@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Kyle 👋</h1>
 
-Full-stack developer, primarily self-taught, currently moving into AI engineering.
+Full-stack developer moving into AI engineering, primarily self taught, which mostly meant staring at a blank editor until things made sense.
 
 **Open to:** software engineering internships, remote or on-site in Miami.
 
@@ -8,7 +8,7 @@ Full-stack developer, primarily self-taught, currently moving into AI engineerin
 
 - Building **Deplo**, a visual CI pipeline runner
 - Moving into AI engineering next
-- Learning BoxLang ahead of contributing to Ortus Solutions' open source projects
+- Contributing to Ortus Solutions' open source projects
 
 ### Featured Projects
 **[Deplo](https://github.com/kylegutierrez51/Deplo)**: A tool for visualizing CI pipelines as a graph. Users add nodes to the graph, each running an arbitrary shell command. Independent branches execute commands in parallel, with statuses and logs updating live as pipelines run.
