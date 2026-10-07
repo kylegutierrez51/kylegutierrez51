@@ -8,7 +8,7 @@ Full-stack developer, primarily self-taught, currently moving into AI engineerin
 
 - Building **Deplo**, a visual CI/CD pipeline runner
 - Moving into AI engineering next
-- Contributing to Ortus Solutions' open source projects
+- Contributing to BoxLang LSP, Ortus Solutions' open source language server for BoxLang
 
 ### Featured Projects
 **[Deplo](https://github.com/kylegutierrez51/Deplo)**: A CI/CD platform for visualizing pipelines as a graph. Users add nodes to the graph, each running an arbitrary shell command. Independent branches execute commands in parallel, with statuses and logs updating live as pipelines run.
